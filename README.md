@@ -1,6 +1,6 @@
 #Starter web project
 
-This project introduces us to git
+This project introduces us to git.Adding line to understand rebasing
 
 ##Purpose 
 
