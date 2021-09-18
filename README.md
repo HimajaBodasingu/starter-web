@@ -4,8 +4,6 @@
 
 ##Introduction
 
-##Deployement
-
 ##How to contribute
 
 
