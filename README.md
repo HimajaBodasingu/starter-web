@@ -12,7 +12,11 @@ Hellooooooooooooooooooo
 
 ##Deployement
 
+Yessssssssssssssss
+
 ##How to contribute
+
+Huuuuuuuuuuuuuuuuuuuu
 
 
 
