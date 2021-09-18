@@ -1,6 +1,6 @@
 #Starter web project
 
-This project introduces us to git.Adding line to understand rebasing
+This project introduces us to git.Adding line to understand rebasing,another line from myfeature toooo
 
 ##Purpose 
 
